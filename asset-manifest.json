@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/WebsiteProjectGenerator/static/css/main.d1b05096.chunk.css",
+    "main.js": "/WebsiteProjectGenerator/static/js/main.48f51d6f.chunk.js",
+    "main.js.map": "/WebsiteProjectGenerator/static/js/main.48f51d6f.chunk.js.map",
+    "runtime-main.js": "/WebsiteProjectGenerator/static/js/runtime-main.01921aaf.js",
+    "runtime-main.js.map": "/WebsiteProjectGenerator/static/js/runtime-main.01921aaf.js.map",
+    "static/js/2.ebc34bf0.chunk.js": "/WebsiteProjectGenerator/static/js/2.ebc34bf0.chunk.js",
+    "static/js/2.ebc34bf0.chunk.js.map": "/WebsiteProjectGenerator/static/js/2.ebc34bf0.chunk.js.map",
+    "index.html": "/WebsiteProjectGenerator/index.html",
+    "precache-manifest.99721049854b318e917716982805ba09.js": "/WebsiteProjectGenerator/precache-manifest.99721049854b318e917716982805ba09.js",
+    "service-worker.js": "/WebsiteProjectGenerator/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/WebsiteProjectGenerator/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.ebc34bf0.chunk.js.LICENSE": "/WebsiteProjectGenerator/static/js/2.ebc34bf0.chunk.js.LICENSE",
+    "static/media/logo.svg": "/WebsiteProjectGenerator/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01921aaf.js",
+    "static/js/2.ebc34bf0.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.48f51d6f.chunk.js"
+  ]
+}

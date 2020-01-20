@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Lucifer1662/MyProjects/static/css/main.968359aa.chunk.css",
-    "main.js": "/Lucifer1662/MyProjects/static/js/main.2d6d2c6e.chunk.js",
-    "main.js.map": "/Lucifer1662/MyProjects/static/js/main.2d6d2c6e.chunk.js.map",
-    "runtime-main.js": "/Lucifer1662/MyProjects/static/js/runtime-main.f9e1e64b.js",
-    "runtime-main.js.map": "/Lucifer1662/MyProjects/static/js/runtime-main.f9e1e64b.js.map",
-    "static/js/2.639d7a67.chunk.js": "/Lucifer1662/MyProjects/static/js/2.639d7a67.chunk.js",
-    "static/js/2.639d7a67.chunk.js.map": "/Lucifer1662/MyProjects/static/js/2.639d7a67.chunk.js.map",
-    "index.html": "/Lucifer1662/MyProjects/index.html",
-    "precache-manifest.09af286091ea7d590d37c997364a79eb.js": "/Lucifer1662/MyProjects/precache-manifest.09af286091ea7d590d37c997364a79eb.js",
-    "service-worker.js": "/Lucifer1662/MyProjects/service-worker.js",
-    "static/css/main.968359aa.chunk.css.map": "/Lucifer1662/MyProjects/static/css/main.968359aa.chunk.css.map",
-    "static/js/2.639d7a67.chunk.js.LICENSE": "/Lucifer1662/MyProjects/static/js/2.639d7a67.chunk.js.LICENSE"
+    "main.css": "/Lucifer1662/static/css/main.968359aa.chunk.css",
+    "main.js": "/Lucifer1662/static/js/main.03c57887.chunk.js",
+    "main.js.map": "/Lucifer1662/static/js/main.03c57887.chunk.js.map",
+    "runtime-main.js": "/Lucifer1662/static/js/runtime-main.2aabb05f.js",
+    "runtime-main.js.map": "/Lucifer1662/static/js/runtime-main.2aabb05f.js.map",
+    "static/js/2.639d7a67.chunk.js": "/Lucifer1662/static/js/2.639d7a67.chunk.js",
+    "static/js/2.639d7a67.chunk.js.map": "/Lucifer1662/static/js/2.639d7a67.chunk.js.map",
+    "index.html": "/Lucifer1662/index.html",
+    "precache-manifest.091acb30e118922baf2b637176c2fedc.js": "/Lucifer1662/precache-manifest.091acb30e118922baf2b637176c2fedc.js",
+    "service-worker.js": "/Lucifer1662/service-worker.js",
+    "static/css/main.968359aa.chunk.css.map": "/Lucifer1662/static/css/main.968359aa.chunk.css.map",
+    "static/js/2.639d7a67.chunk.js.LICENSE": "/Lucifer1662/static/js/2.639d7a67.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.f9e1e64b.js",
+    "static/js/runtime-main.2aabb05f.js",
     "static/js/2.639d7a67.chunk.js",
     "static/css/main.968359aa.chunk.css",
-    "static/js/main.2d6d2c6e.chunk.js"
+    "static/js/main.03c57887.chunk.js"
   ]
 }
